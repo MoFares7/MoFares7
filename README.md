@@ -4,7 +4,7 @@
 - 🌱 I’m Software Engineer
 - 🤔 I’m Senior in Flutter Framework
 - 👀 I’m interested in Mobile Development
-- 🧠 I’m currently learning Laravel BackEnd
+- 🧠 I’m currently Learning Laravel BackEnd
 - 💬 Ask me about any Thing
 - 📫 How to reach me: faresdabbas1@gmail.com
 
