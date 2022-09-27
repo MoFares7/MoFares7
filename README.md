@@ -1,4 +1,4 @@
- Hi there I’m Mo Fares 👋
+ Hi there 👋 I’m Mo Fares 
 
 - 🔭 I’m currently working on DBT
 - 🌱 I’m Software Engineer
