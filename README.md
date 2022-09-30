@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MO Fares</h1>
+<h1 align="center">Hi 👋, I'm Mo Fares</h1>
 <h3 align="center">A passionate Full Stack developer from Liverpool</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mofares7&label=Profile%20views&color=0e75b6&style=flat" alt="mofares7" /> </p>
@@ -7,9 +7,15 @@
 
 - 🔭 I’m currently working on **DBT**
 
-- 🌱 I’m currently learning **Laravel BackEnd**
+- 🧠 I’m Software Engineer
 
-- 👀 I’m interested in Mobile Development **Flutter, laravel**
+- 👀 I’m interested in Mobile Development ****
+
+- 🤔 I’m Senior in Flutter Framework
+
+- 🌱 I’m currently learning laravel BackEnd
+
+- 💬 Ask me about any Thing
 
 - 📫 How to reach me: [faresdabbas1@gmail.com](faresdabbas1@gmail.com)
 
