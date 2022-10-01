@@ -9,7 +9,7 @@
 
 - 🧠 I’m Software Engineer
 
-- 👀 I’m interested in Mobile Development ****
+- 👀 I’m interested in Mobile Development
 
 - 🤔 I’m Senior in Flutter Framework
 
