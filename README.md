@@ -13,7 +13,7 @@
 
 - 🤔 I’m Senior in Flutter Framework
 
-- 🌱 I’m currently learning laravel BackEnd
+- 🌱 I’m currently learning React.js
 
 - 💬 Ask me about any Thing
 
