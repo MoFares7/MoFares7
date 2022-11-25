@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://www.explaincode.app/static/media/undraw_dev_productivity_umsq.1b32d0c2.png" height="50px"/></a>
+<a href="#"><img width="60%" height="30%" src="https://www.explaincode.app/static/media/undraw_dev_productivity_umsq.1b32d0c2.png"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mo Fares</h1>
 <h3 align="center">A passionate Full Stack developer </h3>
