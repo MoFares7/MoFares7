@@ -1,4 +1,4 @@
-<a href="#"><center><img width="60%" height="30%"  src="https://www.explaincode.app/static/media/undraw_dev_productivity_umsq.1b32d0c2.png"/></center></a>
+<p align="center"> <a href="#"><img width="66%" height="450px" src="https://www.explaincode.app/static/media/undraw_dev_productivity_umsq.1b32d0c2.png" height="75px" /></a></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mo Fares</h1>
 <h3 align="center">A passionate Full Stack developer </h3>
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Laravel BackEnd**
 
-- 👀 I’m interested in Mobile Development **Flutter, laravel**
+- 👀 I’m interested in Mobile Development **Flutter, Laravel**
 
 - 📫 How to reach me: [faresdabbas1@gmail.com](faresdabbas1@gmail.com)
 
