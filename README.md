@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mofares7&label=Profile%20views&color=0e75b6&style=flat" alt="mofares7" /> </p>
 
 
-- 🔭 I’m currently working on **DBT**
+- 🔭 I’m currently working on **FreeLancing**
 
 - 🌱 I’m currently learning **Laravel BackEnd**
 
@@ -31,11 +31,6 @@
 </p>
  <br/>
     <a href="https://github.com/MoFares7/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MoFares7&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-<br/>
-
-<a href="https://github.com/MoFares7/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" 
-src="https://activity-graph.herokuapp.com/graph?username=MoFares7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
