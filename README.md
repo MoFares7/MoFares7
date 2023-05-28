@@ -1,4 +1,3 @@
-<p align="center"> <a href="#"><img width="66%" height="450px" src="https://www.explaincode.app/static/media/undraw_dev_productivity_umsq.1b32d0c2.png" height="75px" /></a></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mo Fares</h1>
 <h3 align="center">A passionate Full Stack developer </h3>
