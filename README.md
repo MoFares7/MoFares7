@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Express Js BackEnd**
 
-- 👀 I’m interested in Mobile Development **Flutter, Laravel**
+- 👀 I’m interested in Web Development **Flutter, Laravel**
 
 - 📫 How to reach me: [faresdabbas1@gmail.com](faresdabbas1@gmail.com)
 
