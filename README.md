@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mofares7&label=Profile%20views&color=0e75b6&style=flat" alt="mofares7" /> </p>
 
 
-- 🔭 I’m currently working on **FreeLancing**
+- 🔭 I’m currently working on **Uranus Link**
 
-- 🌱 I’m currently learning **Laravel BackEnd**
+- 🌱 I’m currently learning **Express Js BackEnd**
 
 - 👀 I’m interested in Mobile Development **Flutter, Laravel**
 
