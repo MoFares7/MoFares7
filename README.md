@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mo Fares</h1>
-<h3 align="center">A passionate Full Stack developer </h3>
+<h3 align="center">A passionate Full Stack Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mofares7&label=Profile%20views&color=0e75b6&style=flat" alt="mofares7" /> </p>
 
 
-- 🔭 I’m currently working on **Uranus Link**
+- 🔭 I’m currently working on **Larsa Tecnologies**
 
-- 🌱 I’m currently learning **Express Js BackEnd**
+- 🌱 I’m currently learning **Nest Js BackEnd**
 
-- 👀 I’m interested in Web Development **Flutter, Laravel**
+- 👀 I’m interested in Web Development **React Js, Next Js, Node Js**
 
 - 📫 How to reach me: [faresdabbas1@gmail.com](faresdabbas1@gmail.com)
 
