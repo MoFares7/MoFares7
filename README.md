@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mofares7&label=Profile%20views&color=0e75b6&style=flat" alt="mofares7" /> </p>
 
 
-- 🔭 I’m currently working on **Larsa Tecnologies**
+- 🔭 I’m currently working on **Larsa Technologies**
 
 - 🌱 I’m currently learning **Nest Js BackEnd**
 
